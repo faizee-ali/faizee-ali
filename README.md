@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @faizee-ali
-- 👀 I’m interested in Ecology, Computational Neuroscience and cartoons
-- 🌱 I’m currently learning R and neural networks
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Ecology, Evolution and cartoons
+- 🌱 I’m currently improving my R and modelling
 - 📫 How to reach me discord : Skrrāttä#0424
 
 <!---
