@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @faizee-ali
-- 👀 I’m interested in Ecology, Evolution and cartoons
-- 🌱 I’m currently improving my R and modelling
-- 📫 How to reach me discord : Skrrāttä#0424
+- 👋 Hi, I’m Faizee Ali Khan, Masters student at IISER Tirupati
+- 👀 I’m interested in Ecology, Evolution and for loops
+- 🌱 I'm currently learning Phylogenomics on Python
+- 📫 Find me on discord : Skrrāttä#0424 | email : faizeealikhan@students.iisertirupati.ac.in
 
 <!---
 faizee-ali/faizee-ali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
